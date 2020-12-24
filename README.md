@@ -28,4 +28,4 @@ The fake-s3 root directory will then be added as a volume on the Docker host.  T
 
 To provide your own license use
 
-	docker run --name my_s3 -d lphoward/fake-s3 --license YOUR_LICENSE_KEY
+        docker run --name my_s3 -d lphoward/fake-s3 --license YOUR_LICENSE_KEY
